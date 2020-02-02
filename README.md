@@ -11,7 +11,7 @@ With only being prompted to include my username
 
 
 #### Installation/usage
-![alt test](Assets\Images\Develop.gif)
+![alt test](Images\Develop.gif)
 
 Modules/tools
 * Node.js
@@ -20,9 +20,9 @@ Modules/tools
 * util
 * axios
 
-![alt test](Assets\Images\develop.png)
+![alt test](Images\develop.png)
 
-![alt test](Assets\Images\develop2.png)
+![alt test](Images\develop2.png)
 
 ##### Credits
 
